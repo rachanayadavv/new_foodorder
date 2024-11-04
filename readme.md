@@ -1,4 +1,4 @@
-<b>Food Ordering System<b>
+<b>Food Ordering System</b>
     This repository contains a Food Ordering System developed in PHP and MySQL. The project enables users to browse food categories, view food items, and place orders online. The admin panel allows managing orders, food items, and categories.
 
 Table of Contents
